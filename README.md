@@ -14,7 +14,7 @@ To start this analysis once the Creation Date was converted from UNIX format to 
 
 Below chart visually displays the outcomes trend by month, the peak of succesful campaigns were in May and in December the likelihood of success vs fail is almost even. 
 
-![image_name](path/to/image_name.png)
+![Theater_Outcomes_vs_Launch](https://github.com/Mejikano/Module-1-Challenge-KickStarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.PNG)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -24,8 +24,7 @@ Using goal ranges the theather-plays campaigns were counted and classified based
 
 The following line chart visually displays the outcomes trend by month, the peak of succesful campaigns were in May and in December the likelihood of success vs fail is almost even. 
 
-
-![image_name](path/to/image_name.png)
+![Outcomes_vs_Goals](https://github.com/Mejikano/Module-1-Challenge-KickStarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.PNG)
 
 ### Challenges and Difficulties Encountered
 
@@ -52,7 +51,7 @@ statistically might not be relevant to state that are successful
 *A Stacked Bar Chart for Spotlight vs Outcome
 
 ### Analysis Reference
-Underlying data, tables and charts used for this analysis can be on below Excel workbook link:
+Underlying data, tables and charts used for this analysis can be found in the following zipped Excel workbook link:
 
-[filename](path/to/filename.xlxs)
+[Kickstarter_Challenge](https://github.com/Mejikano/Module-1-Challenge-KickStarter-Analysis/blob/main/Kickstarter_Challenge.zip)
 
