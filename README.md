@@ -35,13 +35,13 @@ One of the challenges was how to include Goal ranges into the conditional count 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-*A theather campaign launch in May, June or July will most likely succeed
-*A December Launch has a high likelihood of failing, less than 50% of chance to succeed therefore would be the worst month for launching a theather campaign 
+-A theather campaign launch in May, June or July will most likely succeed
+-A December Launch has a high likelihood of failing, less than 50% of chance to succeed therefore would be the worst month for launching a theather campaign 
 
 - What can you conclude about the Outcomes based on Goals?
 
-*A goal range between 1,000 and 4,999 tends to be successful for theather-plays campaigns 
-*Plays subcategories were never cancelled regardless of the campaign goal 
+-A goal range between 1,000 and 4,999 tends to be successful for theather-plays campaigns 
+-Plays subcategories were never cancelled regardless of the campaign goal 
 
 - What are some limitations of this dataset?
 
