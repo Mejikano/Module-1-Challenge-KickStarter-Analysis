@@ -50,7 +50,6 @@ Some outcome counts could derive biased conclusions; for instance the Outcomes b
 
 
 - What are some other possible tables and/or graphs that we could create?
-**Recommendations for the analysis would be to create, visualize and analyze: **
 
 -Launch Date and goals Outcome charts being filterable by country, so the analysis can show 
      a)Launch Date  market preferences and trends. 
